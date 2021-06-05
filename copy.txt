@@ -3,3 +3,4 @@ adding one more line in copy.txt
 adding third line
 this is the 4th line in copy file.
 this is the 5th line.
+this is the 6th line that is added from remote GUI.
